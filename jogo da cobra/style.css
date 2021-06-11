@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    color: rgb(14, 124, 11);
+    text-transform: uppercase;  
+    background:url('assets/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 2px 4px 7px rgb(103, 126, 103);
+    font-size: 30px;
+    
+}
+
+canvas{
+    border-radius: 6px;   
+}
